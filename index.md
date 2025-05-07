@@ -10,7 +10,6 @@ title: Congratulations! You are ready to Leap into the Clouds!
 With over a decade of hands-on experience in Hybrid Cloud Storage, Data Protection, and Data Migration, I bring a robust skill set and a passion for innovation to the table. I specialize in automation, virtualization, and optimizing infrastructure for seamless cloud transitions.
 
 ### Key Achievements
-- AWS Certified Solutions Architect
 - Migrated 50+ enterprise systems to the cloud
 - Designed cost-efficient and scalable cloud architectures
 
