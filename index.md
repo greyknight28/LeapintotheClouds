@@ -1,5 +1,5 @@
 ---
-title: COngratulations! You are ready to Leap into the Clouds!
+title: Congratulations! You are ready to Leap into the Clouds!
 ---
 
 About Me:
