@@ -1,4 +1,11 @@
+# Specify the theme used for the Jekyll blog
 theme: minima
+
+# Title of the blog
 title: Leap into the clouds
+
+# Author of the blog
 author: Rohit Kumar
-description:a blog to help you leap into the clouds
+
+# Short description of the blog
+description: a blog to help you leap into the clouds
