@@ -2,10 +2,38 @@
 theme: minima
 
 # Title of the blog
-title: Leap into the clouds
+title: Leap into the Clouds
 
 # Author of the blog
 author: Rohit Kumar
 
 # Short description of the blog
-description: a blog to help you leap into the clouds
+description: Your ultimate guide to mastering cloud computing.
+
+# Website settings
+url: "https://greyknight28.github.io/LeapintotheClouds" # Replace with your actual blog URL
+baseurl: "" # Set if your blog is in a subdirectory
+lang: "en"
+
+# Social media links
+social:
+  twitter: "your-twitter-handle"
+  github: "greyknight28"
+  linkedin: "https://www.linkedin.com/in/rohitkr2803/"
+
+# Plugins for additional features
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Pagination settings
+paginate: 5 # Number of posts per page
+paginate_path: "/page:num/"
+
+# Theme-specific customization
+minima:
+  skin: dark
+  social_links: true
+
+# Analytics
+google_analytics: "UA-XXXXXXXXX-X" # Replace with your Google Analytics tracking ID
