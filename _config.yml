@@ -5,15 +5,15 @@
 title: Leap into the Clouds
 
 # Author of the blog
-# author: Rohit Kumar
+ author: Rohit Kumar
 
 # Short description of the blog
-# description: Your ultimate guide to mastering cloud computing.
+ description: Your ultimate guide to mastering cloud computing.
 
 # Website settings
-# url: "https://greyknight28.github.io/LeapintotheClouds" # Replace with your actual blog URL
-# baseurl: "" # Set if your blog is in a subdirectory
-# lang: "en"
+ url: "https://greyknight28.github.io/LeapintotheClouds" # Replace with your actual blog URL
+ baseurl: "" # Set if your blog is in a subdirectory
+ lang: "en"
 
 # Social media links
 # social:
